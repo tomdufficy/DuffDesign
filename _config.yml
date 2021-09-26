@@ -21,8 +21,7 @@
 title: ArchiSloth
 email: tomdufficy@gmail.com
 description: Architecture tutorials and lessons # this means to ignore newlines until "baseurl:"
-baseurl: "ArchiSloth" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tomdufficy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  tomdufficy
 
