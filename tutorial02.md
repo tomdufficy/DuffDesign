@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tutorial 02
 nav_order: 2
 search_enabled: true
