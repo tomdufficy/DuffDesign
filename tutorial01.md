@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Tutorial 01
 nav_order: 2
-permalink: /about/
 search_enabled: true
-parent: tutorials
-has_children: false
+parent: Tutorials
 ---
 
 Tutorial example
