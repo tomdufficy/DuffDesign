@@ -3,6 +3,7 @@ layout: default
 title: Tutorial 01
 nav_order: 1
 search_enabled: true
+permalink: /tutorials/:title
 parent: Tutorials
 ---
 
